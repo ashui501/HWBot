@@ -101,3 +101,4 @@ youtube_search
 youtube_search_python
 yt-dlp
 zalgo-text
+from pymongo.srv_resolver import _HAVE_DNSPYTHON, _SrvResolver
