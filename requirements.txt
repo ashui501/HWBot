@@ -15,7 +15,7 @@ cowpy
 cryptg
 cryptography
 dateparser==1.1.1
-dnspython
+dnspython==2.4.2
 emoji
 envparse
 faker
@@ -40,6 +40,7 @@ hiredis
 html-telegraph-poster
 html2text
 httpx
+httpcore==1.0.0
 humanize
 img2pdf
 jikanpy
@@ -101,5 +102,3 @@ youtube_search
 youtube_search_python
 yt-dlp
 zalgo-text
-dnspython==2.4.2
-httpcore==1.0.0
